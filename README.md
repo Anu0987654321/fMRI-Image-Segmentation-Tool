@@ -1,14 +1,14 @@
-# 🧠 fMRI Image Segmentation Tool
+# fMRI Image Segmentation Tool
 
 A Java-based image processing application designed to analyze fMRI images through grayscale preprocessing, threshold-based segmentation, Region of Interest (ROI) extraction, feature extraction, and activity classification.
 
-## 📌 Project Overview
+##  Project Overview
 
 The **fMRI Image Segmentation Tool** aims to simplify the analysis of functional Magnetic Resonance Imaging (fMRI) images by applying image processing techniques to identify and extract meaningful regions from brain images.
 
 The project provides a structured pipeline for processing images and examining segmented regions for further analysis.
 
-## ✨ Features
+## Features
 
 - **Image Loading:** Load input brain images for processing.
 - **Grayscale Preprocessing:** Convert images into grayscale for simplified analysis.
@@ -27,7 +27,7 @@ The project provides a structured pipeline for processing images and examining s
 - Thresholding
 - Region of Interest (ROI) Extraction
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Load the input fMRI image.
 2. Perform grayscale preprocessing.
@@ -37,17 +37,17 @@ The project provides a structured pipeline for processing images and examining s
 6. Perform activity classification.
 7. Display the processed results.
 
-## 👩‍💻 Team Members
+##  Team Members
 
 - **Faheemah M**
 
-## 🎓 Project Information
+##  Project Information
 
 **Project Title:** fMRI Image Segmentation Tool  
 **Project Domain:** Medical Image Processing  
 **Programming Language:** Java
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Advanced segmentation algorithms.
 - Improved feature extraction techniques.
@@ -57,4 +57,4 @@ The project provides a structured pipeline for processing images and examining s
 
 ---
 
-⭐ *Developed as an academic project exploring image processing and segmentation techniques for fMRI images.*
+ *Developed as an academic project exploring image processing and segmentation techniques for fMRI images.*
